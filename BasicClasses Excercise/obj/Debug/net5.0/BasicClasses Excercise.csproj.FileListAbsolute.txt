@@ -1,0 +1,16 @@
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.exe
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.deps.json
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.runtimeconfig.dev.json
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.dll
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\ref\BasicClasses Excercise.dll
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\bin\Debug\net5.0\BasicClasses Excercise.pdb
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.AssemblyInfoInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.AssemblyInfo.cs
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.dll
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\ref\BasicClasses Excercise.dll
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.pdb
+C:\Users\Robert Colville\Desktop\Repos\BasicClasses Excercise\BasicClasses Excercise\obj\Debug\net5.0\BasicClasses Excercise.genruntimeconfig.cache
